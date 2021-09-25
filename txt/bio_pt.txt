@@ -1,0 +1,9 @@
+Desde minha infância sempre estive muito conectado com o mundo da tecnologia, frequentando blogs, jogando online, assistindo vídeos e pesquisando formas de aperfeiçoar o funcionamento do velho computador da sala de estar.
+
+Após um período de indecisão sobre qual curso fazer, me encontrei plenamente no curso Análise e Desenvolvimento de Sistemas, que me mostrou uma área totalmente sintonizada com o meu perfil e objetivo de carreira: a programação.
+
+Apesar disso, ainda me arrisquei um pouco estudando Segurança da Informação, onde me deparei com vários assuntos importantíssimos para qualquer profissional de tecnologia, passando por temas que envolvem riscos e cuidados na administração de redes, servidores, sistemas e aplicações.
+
+Durante toda minha jornada, conheci algumas linguagens back-end como C/C++, Java, Python (que também gostei muito) e Ruby, mas foi no front-end que encontrei o que realmente me brilhou os olhos, trazendo a possibilidade de criar aplicações, páginas dinâmicas, conteúdo acessível ao público em geral. A semântica prática do HTML, as infinitas possibilidades de estilização com CSS e o dinamismo e interoperabilidade proporcionado pelo JavaScript me fizeram abraçar esse jeito de codar e seguir evoluindo cada vez mais nesse caminho viciante.
+
+Ainda existe uma tecnologia que tenho muito interesse em estudar, a Blockchain. Um campo que já é realidade e tem tudo para se tornar cada vez mais presente neste mundo conectado que vivemos.
