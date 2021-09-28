@@ -7,7 +7,7 @@ h1 {
   font-size: 28px;
   padding-bottom: 10px;
   box-sizing: border-box;
-  border-bottom: 1px solid rgba(238, 238, 238, 0.9);
+  border-bottom: 1px solid rgba(44, 29, 0, 0.9);
 }
 
 a {
@@ -36,6 +36,7 @@ ul i {
 }
 
 .header {
+  z-index: 5;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -64,9 +65,14 @@ ul i {
 }
 
 .top-block {
+  z-index: -1;
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  background-image: url("../img/code4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .projects-block, .top-block {
@@ -97,4 +103,9 @@ ul i {
   justify-content: space-evenly;
   align-items: center;
   list-style-type: none;
+}
+
+.section-arrow {
+  font-size: 36px;
+  bottom: 0px;
 }
