@@ -42,14 +42,15 @@ ul i {
   justify-content: space-evenly;
 }
 
-.image {
+.profile_image {
   float: left;
   margin-inline-start: 0px;
   margin-inline-end: 60px;
 }
 
-.image img {
+.profile_image img {
   border-radius: 50%;
+  max-width: 100%;
 }
 
 .right-text {
@@ -106,6 +107,49 @@ ul i {
 }
 
 .section-arrow {
+  
   font-size: 36px;
   bottom: 0px;
+}
+
+@media (max-width: 1061px) {
+  .top-block, .path-block, .projects-block, .bottom-block {
+    min-height: 98vh;
+  }
+  
+  .header, .contact {
+    flex-wrap: wrap;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .profile_image {
+    text-align: center;
+    float: none;
+    margin-inline-start: 10%;
+    margin-inline-end: 10%;
+  }
+
+  .profile_image img {
+    max-width: 70%;
+
+  }
+  
+  .text-block {
+    margin: 2% 10%;
+  }
+}
+
+@media (max-width: 720px) {
+  .contact {
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 0 5rem;
+  }
+}
+
+@media (max-width: 406px) {
+  .contact {
+    padding: 0 1.5rem;
+  }
 }
